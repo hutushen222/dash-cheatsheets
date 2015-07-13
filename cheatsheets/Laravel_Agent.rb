@@ -195,12 +195,5 @@ cheatsheet do
             </html>
             END
         end
-
-        entry do
-            name ''
-            notes "
-            ```php
-            ```"
-        end
     end
 end
